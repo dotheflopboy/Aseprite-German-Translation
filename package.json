@@ -1,0 +1,16 @@
+{
+  "name": "aseprite-language-german",
+  "displayName": "de",
+  "description": "Deutsche Übersetzung von Dotheflopboy",
+  "version": "1.0",
+  "publisher": "Dotheflopboy",
+  "author": { "name": "Dotheflopboy", "url": "https://github.com/dotheflopboy" },
+  "categories": [
+    "Languages"
+  ],
+  "contributes": {
+    "languages": [
+      { "id": "de", "path": "./de.ini" }
+    ]
+  }
+}
